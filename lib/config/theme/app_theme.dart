@@ -46,9 +46,9 @@ class AppTheme {
             backgroundColor: colorThemes[selectTheme][300],
             elevation: 0,
             selectedIconTheme:
-                IconThemeData(color: colorThemes[selectTheme][400]),
+                IconThemeData(color: colorThemes[selectTheme][700]),
             selectedLabelStyle: TextStyle(
-                color: colorThemes[selectTheme][500],
+                color: colorThemes[selectTheme][700],
                 fontWeight: FontWeight.w600),
             selectedItemColor: colorThemes[selectTheme][100],
             unselectedItemColor: colorThemes[selectTheme][100]),
